@@ -1,2 +1,2 @@
-# r-plica-tabnews
+# replica-tabnews
 projeto estudo
